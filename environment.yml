@@ -5,7 +5,7 @@ dependencies:
     - matplotlib
     - mdanalysis
     - mdanalysistests
-    - nglview
+    - Bokeh
     - nba_api
     - pandas
     - numpy
