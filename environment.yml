@@ -6,7 +6,6 @@ dependencies:
     - mdanalysis
     - mdanalysistests
     - Bokeh
-    - nba_api
     - pandas
     - numpy
     - scipy 
