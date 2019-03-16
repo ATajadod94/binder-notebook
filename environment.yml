@@ -6,4 +6,8 @@ dependencies:
     - mdanalysis
     - mdanalysistests
     - nglview
+    - nba_api
+    - pandas
+    - numpy
+    - scipy 
     
